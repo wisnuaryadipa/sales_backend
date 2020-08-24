@@ -1,0 +1,975 @@
+<rdf:RDF
+	xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"
+	xmlns:vcard=\"http://www.w3.org/2001/vcard-rdf/3.0#\"
+	xmlns:j.0=\"http://www.w3.org/ns/org#\">
+	<rdf:Description rdf:about=\"http://DPR_RI\">
+		<j.0:classification>Pemilihan Umum Legislatif Indonesia</j.0:classification>
+		<vcard:Tahun>2018</vcard:Tahun>
+		<j.0:headOf>
+			<rdf:Description rdf:about=\"http://PARTAI_DEMOKRASI_INDONESIA_PERJUANGAN\">
+				<j.0:headOf>
+					<rdf:Description rdf:about=\"http://ACEH_I\">
+						<vcard:id_wilayah>1</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://SUHARNI_BUSTAMI, S.Pd\">
+								<vcard:nama>SUHARNI BUSTAMI, S.Pd</vcard:nama>
+								<vcard:namaKab>KOTA BANDA ACEH</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>foto.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://ACEH_II\">
+						<vcard:id_wilayah>1</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://FAISAL_RIDHA, S.Ag., MM\">
+								<vcard:nama>FAISAL RIDHA, S.Ag., MM</vcard:nama>
+								<vcard:namaKab>ACEH BESAR</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>foto.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://SUMATERA_UTARA I\">
+						<vcard:id_wilayah>6728</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://DELLY_MAHFUZAR\">
+								<vcard:nama>DELLY MAHFUZAR</vcard:nama>
+								<vcard:namaKab>KOTA BINJAI</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>Pasfoto.jpeg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://SUMATERA_UTARA II\">
+						<vcard:id_wilayah>6728</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://H.AMRAN_SALEH SIREGAR\">
+								<vcard:nama>H.AMRAN SALEH SIREGAR</vcard:nama>
+								<vcard:namaKab>PADANG LAWAS UTARA</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>Pasfoto.jpeg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://SUMATERA_UTARA III\">
+						<vcard:id_wilayah>6728</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://MU'AD_AMSYARI\">
+								<vcard:nama>MU'AD AMSYARI</vcard:nama>
+								<vcard:namaKab>LAMONGAN</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>Pasfoto.jpeg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://SUMATERA_BARAT I\">
+						<vcard:id_wilayah>12920</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://ELIN_NUR ASLICHAH, S.PD.I\">
+								<vcard:nama>ELIN NUR ASLICHAH, S.PD.I</vcard:nama>
+								<vcard:namaKab>BOGOR</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>pasfoto.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://SUMATERA_BARAT II\">
+						<vcard:id_wilayah>12920</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://Ir._RITA MURNI\">
+								<vcard:nama>Ir. RITA MURNI</vcard:nama>
+								<vcard:namaKab>LIMA PULUH KOTA</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>pasfoto.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://RIAU_I\">
+						<vcard:id_wilayah>14086</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://AHMAD_SAEJO BUDIAWAN\">
+								<vcard:nama>AHMAD SAEJO BUDIAWAN</vcard:nama>
+								<vcard:namaKab>KOTA DEPOK</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO_AHMAD SAEJO BUDIAWAN_RIAU 1.jpeg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://RIAU_II\">
+						<vcard:id_wilayah>14086</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://HASNIATI,_S.H., M.H.\">
+								<vcard:nama>HASNIATI, S.H., M.H.</vcard:nama>
+								<vcard:namaKab>JAKARTA SELATAN</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO BERWARNA 4X6_HASNIATI_RIAU 2.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAMBI\">
+						<vcard:id_wilayah>15885</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://FIKA_NOVITA SARI, S.Sos.\">
+								<vcard:nama>FIKA NOVITA SARI, S.Sos.</vcard:nama>
+								<vcard:namaKab>KOTA JAMBI</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO 4X6 BERWARNA_FIKA NOVITA SARI_JAMBI.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://SUMATERA_SELATAN I\">
+						<vcard:id_wilayah>17404</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://NURKHOLIS,_SH., MA\">
+								<vcard:nama>NURKHOLIS, SH., MA</vcard:nama>
+								<vcard:namaKab>JAKARTA TIMUR</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>pasfoto.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://SUMATERA_SELATAN II\">
+						<vcard:id_wilayah>17404</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://ARNA_SURYATI, S.PD\">
+								<vcard:nama>ARNA SURYATI, S.PD</vcard:nama>
+								<vcard:namaKab>KOTA PALEMBANG</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>E-Foto_Arna Suryati Anwar_Sumsel II.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://BENGKULU\">
+						<vcard:id_wilayah>20802</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://DENA_ANGGARI\">
+								<vcard:nama>DENA ANGGARI</vcard:nama>
+								<vcard:namaKab>LEBAK</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>DENA.PNG</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://LAMPUNG_I\">
+						<vcard:id_wilayah>22328</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://MENIK_MAHANANING TIMUR, S.Pd.I\">
+								<vcard:nama>MENIK MAHANANING TIMUR, S.Pd.I</vcard:nama>
+								<vcard:namaKab>WAY KANAN</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>E-Foto_Menik Mahananing Timur_Lampung I.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://LAMPUNG_II\">
+						<vcard:id_wilayah>22328</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://VIVI_NOVIYANTI\">
+								<vcard:nama>VIVI NOVIYANTI</vcard:nama>
+								<vcard:namaKab>LAMPUNG TIMUR</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>VIVI NOVIYANTI.PNG</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://KEPULAUAN_RIAU\">
+						<vcard:id_wilayah>25405</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://RENNY_YULIA ELSHA, S.Si., M.Pd.\">
+								<vcard:nama>RENNY YULIA ELSHA, S.Si., M.Pd.</vcard:nama>
+								<vcard:namaKab>KOTA BATAM</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>RENNY YULIA.PNG</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_BARAT I\">
+						<vcard:id_wilayah>26141</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://HJ._IIS NOERY ALWANI\">
+								<vcard:nama>HJ. IIS NOERY ALWANI</vcard:nama>
+								<vcard:namaKab>KOTA BANDUNG</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO_IIS NOERY ALWANY_JABAR l-001.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_BARAT II\">
+						<vcard:id_wilayah>26141</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://MUHAMAD_RIFAL\">
+								<vcard:nama>MUHAMAD RIFAL</vcard:nama>
+								<vcard:namaKab>BANDUNG BARAT</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>FOTO.jpeg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_BARAT III\">
+						<vcard:id_wilayah>26141</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://RIMA_YULIA MA'LIAH\">
+								<vcard:nama>RIMA YULIA MA'LIAH</vcard:nama>
+								<vcard:namaKab>CIANJUR</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>PAS PHOTO_Rima Mali'ah_JABAR III.jpeg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_BARAT IV\">
+						<vcard:id_wilayah>26141</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://MANZILA_MARIA RETNO\">
+								<vcard:nama>MANZILA MARIA RETNO</vcard:nama>
+								<vcard:namaKab>JAKARTA TIMUR</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>PAS PHOTO WARNA_Manzila Maria Retno Mayangsari_JABAR IV-1.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_BARAT V\">
+						<vcard:id_wilayah>26141</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://H._MUH. SABRI MANOMANG, SE., MM\">
+								<vcard:nama>H. MUH. SABRI MANOMANG, SE., MM</vcard:nama>
+								<vcard:namaKab>KOTA KENDARI</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>pas photo warna_Muh Sabri Manomang_JABAR V.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_BARAT VI\">
+						<vcard:id_wilayah>26141</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://DUMOLI_SIAHAAN\">
+								<vcard:nama>DUMOLI SIAHAAN</vcard:nama>
+								<vcard:namaKab>JAKARTA TIMUR</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO_DUMOLI SIAHAAN_JABAR Vl.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_BARAT VII\">
+						<vcard:id_wilayah>26141</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://AHMAD_FAISAL, S.HI\">
+								<vcard:nama>AHMAD FAISAL, S.HI</vcard:nama>
+								<vcard:namaKab>BEKASI</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>FOTO 4X6 W AF.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_BARAT VIII\">
+						<vcard:id_wilayah>26141</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://SHOLEHUDDIN\">
+								<vcard:nama>SHOLEHUDDIN</vcard:nama>
+								<vcard:namaKab>KOTA TANGERANG SELATAN</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO_SHOLEHUDDIN_JABAR VIII.jpeg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_BARAT IX\">
+						<vcard:id_wilayah>26141</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://DRS._WARI MAULANA\">
+								<vcard:nama>DRS. WARI MAULANA</vcard:nama>
+								<vcard:namaKab>SUBANG</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO SMA_WARI_JABAR IX.jpeg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_BARAT X\">
+						<vcard:id_wilayah>26141</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://EVA_FITRIAH\">
+								<vcard:nama>EVA FITRIAH</vcard:nama>
+								<vcard:namaKab>KUNINGAN</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>EVA FITRIAH.jpeg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_BARAT XI\">
+						<vcard:id_wilayah>26141</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://AI_RAHMAYANTI, M.AG\">
+								<vcard:nama>AI RAHMAYANTI, M.AG</vcard:nama>
+								<vcard:namaKab>JAKARTA SELATAN</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>FOTO_AI RAHMAYANTI_JABAR XI.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://KEPULAUAN_BANGKA BELITUNG\">
+						<vcard:id_wilayah>24993</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://ALBERTUS_SOEGENG, SH\">
+								<vcard:nama>ALBERTUS SOEGENG, SH</vcard:nama>
+								<vcard:namaKab>JAKARTA BARAT</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>FOTO 4x6_ALBERTUS SUGENG_BANGKA BELITUNG - Copy.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://DKI_JAKARTA I\">
+						<vcard:id_wilayah>25823</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://RR_SK DHARMAWANTY\">
+								<vcard:nama>RR SK DHARMAWANTY</vcard:nama>
+								<vcard:namaKab>JAKARTA TIMUR</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>FOTO 5R_001.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://DKI_JAKARTA II\">
+						<vcard:id_wilayah>25823</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://AZMI_HAKAM GUNTORO, ST\">
+								<vcard:nama>AZMI HAKAM GUNTORO, ST</vcard:nama>
+								<vcard:namaKab>JAKARTA SELATAN</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>pas foto.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://DKI_JAKARTA III\">
+						<vcard:id_wilayah>25823</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://SUBARIAH\">
+								<vcard:nama>SUBARIAH</vcard:nama>
+								<vcard:namaKab>JAKARTA BARAT</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>foto 4x6 warna_001.png</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_TENGAH I\">
+						<vcard:id_wilayah>32676</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://EUIS_LAELATUSSA'ADAH\">
+								<vcard:nama>EUIS LAELATUSSA'ADAH</vcard:nama>
+								<vcard:namaKab>KARAWANG</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO_EUIS LAELATUSSA'ADAH_JATENG I.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_TENGAH II\">
+						<vcard:id_wilayah>32676</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://MU?ASYAROH,,_SH.I\">
+								<vcard:nama>MU?ASYAROH,, SH.I</vcard:nama>
+								<vcard:namaKab>JEPARA</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>muasyaroh.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_TENGAH III\">
+						<vcard:id_wilayah>32676</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://ETY_LUSIANA\">
+								<vcard:nama>ETY LUSIANA</vcard:nama>
+								<vcard:namaKab>JAKARTA BARAT</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO_ETY LUSIANA_JATENG III.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_TENGAH IV\">
+						<vcard:id_wilayah>32676</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://AMIR_MA'RUF\">
+								<vcard:nama>AMIR MA'RUF</vcard:nama>
+								<vcard:namaKab>KOTA DEPOK</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO_AMIR MA'RUF_JATENG IV.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_TENGAH V\">
+						<vcard:id_wilayah>32676</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://ARYOSENO_GEMBONG PRAKOSO\">
+								<vcard:nama>ARYOSENO GEMBONG PRAKOSO</vcard:nama>
+								<vcard:namaKab>KOTA SURAKARTA</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>Pasfoto.jpeg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_TENGAH VI\">
+						<vcard:id_wilayah>32676</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://KHOLILUL_ROHMAN\">
+								<vcard:nama>KHOLILUL ROHMAN</vcard:nama>
+								<vcard:namaKab>MAGELANG</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO_KHOLILUL ROHMAN_JATENG VI.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_TENGAH VII\">
+						<vcard:id_wilayah>32676</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://FATKHUR_ROHMAN, S.IP\">
+								<vcard:nama>FATKHUR ROHMAN, S.IP</vcard:nama>
+								<vcard:namaKab>KOTA TANGERANG SELATAN</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO 4X6_FATKHUR ROHMAN, S.IP_JATENG VII.JPG</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_TENGAH VIII\">
+						<vcard:id_wilayah>32676</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://DR.Ir._H. IFAN HARYANTO, M.Sc\">
+								<vcard:nama>DR.Ir. H. IFAN HARYANTO, M.Sc</vcard:nama>
+								<vcard:namaKab>KOTA BOGOR</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO_IFAN HARYANTO_JATENG VIII.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_TENGAH IX\">
+						<vcard:id_wilayah>32676</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://BELLA_LUBNAL BALADANI\">
+								<vcard:nama>BELLA LUBNAL BALADANI</vcard:nama>
+								<vcard:namaKab>PATI</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO 4X6_BELA LUBNAL BALADANI_JATENG IX.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_TENGAH X\">
+						<vcard:id_wilayah>32676</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://H._LUKMAN KHAKIM, M.Si\">
+								<vcard:nama>H. LUKMAN KHAKIM, M.Si</vcard:nama>
+								<vcard:namaKab>KOTA TANGERANG</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO_LUKMAN KHAKIM_JATENG X.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://DAERAH_ISTIMEWA YOGYAKARTA\">
+						<vcard:id_wilayah>41863</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://RR._LAYLA NOOR AZIZA, S.Pd.,S.Si\">
+								<vcard:nama>RR. LAYLA NOOR AZIZA, S.Pd.,S.Si</vcard:nama>
+								<vcard:namaKab>SLEMAN</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>E-Foto_RR LAYLA NOOR AZIZA_DIY.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_TIMUR I\">
+						<vcard:id_wilayah>42385</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://MISBAHUL_MUNIR\">
+								<vcard:nama>MISBAHUL MUNIR</vcard:nama>
+								<vcard:namaKab>MOJOKERTO</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO WARNA_MISBAHUL MUNIR_JATIM I.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_TIMUR II\">
+						<vcard:id_wilayah>42385</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://SARAH_HAJAR MAHMUDAH, S.Sos\">
+								<vcard:nama>SARAH HAJAR MAHMUDAH, S.Sos</vcard:nama>
+								<vcard:namaKab>CIANJUR</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO WARNA 4X6_SARAH_JATIM II-001.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_TIMUR III\">
+						<vcard:id_wilayah>42385</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://MARETA_MAYANGSARI, S.S\">
+								<vcard:nama>MARETA MAYANGSARI, S.S</vcard:nama>
+								<vcard:namaKab>KOTA BEKASI</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO 4X6 WARNA_MARETA MAYANGSARI_JATIM III-001.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_TIMUR IV\">
+						<vcard:id_wilayah>42385</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://MUHAMMAD_NUR HAYID\">
+								<vcard:nama>MUHAMMAD NUR HAYID</vcard:nama>
+								<vcard:namaKab>JAKARTA SELATAN</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>E-PAS FOTO_MUHAMAD NUR HAYID_JATIM_IV-001.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_TIMUR V\">
+						<vcard:id_wilayah>42385</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://MUHAMMAD_KHUSEN YUSUF\">
+								<vcard:nama>MUHAMMAD KHUSEN YUSUF</vcard:nama>
+								<vcard:namaKab>JAKARTA SELATAN</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO_YUSUF.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_TIMUR VI\">
+						<vcard:id_wilayah>42385</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://NURUZ_ZAMAN, ME\">
+								<vcard:nama>NURUZ ZAMAN, ME</vcard:nama>
+								<vcard:namaKab>NGANJUK</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO_ZAM_JATIM VIII.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_TIMUR VII\">
+						<vcard:id_wilayah>42385</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://H._ABDUL KOLIK, SE\">
+								<vcard:nama>H. ABDUL KOLIK, SE</vcard:nama>
+								<vcard:namaKab>SIDOARJO</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO_ABDUL KOLIK_JATIM_VII.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_TIMUR VIII\">
+						<vcard:id_wilayah>42385</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://H._MUHTAROM, S.Sos\">
+								<vcard:nama>H. MUHTAROM, S.Sos</vcard:nama>
+								<vcard:namaKab>MADIUN</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>mbah tarom warna.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_TIMUR IX\">
+						<vcard:id_wilayah>42385</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://SUGENG_BAHAGIJO\">
+								<vcard:nama>SUGENG BAHAGIJO</vcard:nama>
+								<vcard:namaKab>JAKARTA SELATAN</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>E-PAS FOTO SUGENG BAHAGIJO_JATIM_9.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_TIMUR X\">
+						<vcard:id_wilayah>42385</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://ZAINUL_MUNASICHIN\">
+								<vcard:nama>ZAINUL MUNASICHIN</vcard:nama>
+								<vcard:namaKab>KOTA DEPOK</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO ZAINUL MUNASICHIN, MA_JATIM_X.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://JAWA_TIMUR XI\">
+						<vcard:id_wilayah>42385</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://RIKA_NURLELA, S. Ag.\">
+								<vcard:nama>RIKA NURLELA, S. Ag.</vcard:nama>
+								<vcard:namaKab>KARAWANG</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>IMG-20180625-WA0008.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://BANTEN_I\">
+						<vcard:id_wilayah>51578</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://GOZALI_MUNIR, S.THI\">
+								<vcard:nama>GOZALI MUNIR, S.THI</vcard:nama>
+								<vcard:namaKab>BOGOR</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>20180628_100515.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://BANTEN_II\">
+						<vcard:id_wilayah>51578</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://NAGALITA\">
+								<vcard:nama>NAGALITA</vcard:nama>
+								<vcard:namaKab>KOTA SERANG</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>foto 4 6_001.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://BANTEN_III\">
+						<vcard:id_wilayah>51578</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://ARDY_SUSANTO, SH\">
+								<vcard:nama>ARDY SUSANTO, SH</vcard:nama>
+								<vcard:namaKab>KOTA TANGERANG</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>PAS FOTO ARDY SUSANTO.JPG</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://BALI\">
+						<vcard:id_wilayah>53241</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://SYAIFUDDIN\">
+								<vcard:nama>SYAIFUDDIN</vcard:nama>
+								<vcard:namaKab>JAKARTA SELATAN</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO_SYAIFUDDIN_BALI.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://NUSA_TENGGARA BARAT I\">
+						<vcard:id_wilayah>54020</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://SITI_MARIAM\">
+								<vcard:nama>SITI MARIAM</vcard:nama>
+								<vcard:namaKab>KOTA BIMA</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO_SITI MARIAM_NTB I.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://NUSA_TENGGARA BARAT II\">
+						<vcard:id_wilayah>54020</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://SULHAN,_ST\">
+								<vcard:nama>SULHAN, ST</vcard:nama>
+								<vcard:namaKab>LOMBOK BARAT</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO_SULHAN MUCHLIS IBRAHIM,ST_NTB II.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://NUSA_TENGGARA TIMUR I\">
+						<vcard:id_wilayah>55065</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://HENDRA_YUSUF\">
+								<vcard:nama>HENDRA YUSUF</vcard:nama>
+								<vcard:namaKab>KOTA KUPANG</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO 4x6_HENDRA YUSUF_NTT I.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://NUSA_TENGGARA TIMUR II\">
+						<vcard:id_wilayah>55065</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://DRS._LAMBERTUS L. IBI RITI, MT\">
+								<vcard:nama>DRS. LAMBERTUS L. IBI RITI, MT</vcard:nama>
+								<vcard:namaKab>KOTA KUPANG</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>E-Foto_Drs.Lambertus L. IBI RITI_NTT II.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://KALIMANTAN_BARAT I\">
+						<vcard:id_wilayah>58285</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://RATNA_WULANDARI, S.E., M.E\">
+								<vcard:nama>RATNA WULANDARI, S.E., M.E</vcard:nama>
+								<vcard:namaKab>KOTA PONTIANAK</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>FOTO BARU.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://KALIMANTAN_BARAT II\">
+						<vcard:id_wilayah>58285</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://NONI_RIANI\">
+								<vcard:nama>NONI RIANI</vcard:nama>
+								<vcard:namaKab>SINTANG</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>Noni Riani 4x6 W.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://KALIMANTAN_TENGAH\">
+						<vcard:id_wilayah>60371</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://HJ._SARIYANI, S.H\">
+								<vcard:nama>HJ. SARIYANI, S.H</vcard:nama>
+								<vcard:namaKab>KOTAWARINGIN TIMUR</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>pasfoto.jpeg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://KALIMANTAN_SELATAN I\">
+						<vcard:id_wilayah>61965</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://MUHAMMAD_IQBAL KHALILURRAHMAN, S.H\">
+								<vcard:nama>MUHAMMAD IQBAL KHALILURRAHMAN, S.H</vcard:nama>
+								<vcard:namaKab>BANJAR</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>iqbal.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://KALIMANTAN_SELATAN II\">
+						<vcard:id_wilayah>61965</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://DRS._GERILYANSYAH BASRINDU, M.M., PhD\">
+								<vcard:nama>DRS. GERILYANSYAH BASRINDU, M.M., PhD</vcard:nama>
+								<vcard:namaKab>KOTA BANJARMASIN</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>gerilyansyah.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://KALIMANTAN_TIMUR\">
+						<vcard:id_wilayah>64111</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://RIZKI_NURDIA ASTUTI\">
+								<vcard:nama>RIZKI NURDIA ASTUTI</vcard:nama>
+								<vcard:namaKab>JAKARTA SELATAN</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>rizki.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://SULAWESI_UTARA\">
+						<vcard:id_wilayah>65702</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://MOHAMMAD_IKHSAN SARUNA, ST\">
+								<vcard:nama>MOHAMMAD IKHSAN SARUNA, ST</vcard:nama>
+								<vcard:namaKab>MUNA</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO_IKHSAN SARUNA_SULUT.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://SULAWESI_TENGAH\">
+						<vcard:id_wilayah>67393</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://ANISSA_PUTRI S. BARING, SE\">
+								<vcard:nama>ANISSA PUTRI S. BARING, SE</vcard:nama>
+								<vcard:namaKab>BANGGAI</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>ANNISA PUTRI S.PNG</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://SULAWESI_SELATAN I\">
+						<vcard:id_wilayah>69268</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://NURAENI_S BAKRI\">
+								<vcard:nama>NURAENI S BAKRI</vcard:nama>
+								<vcard:namaKab>KOTA MAKASSAR</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO_NURAENI_SULAWESI SELATAN I_001.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://SULAWESI_SELATAN II\">
+						<vcard:id_wilayah>69268</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://NURLAELAH\">
+								<vcard:nama>NURLAELAH</vcard:nama>
+								<vcard:namaKab>WAJO</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO_NURLAELA_SULSEL II.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://SULAWESI_SELATAN III\">
+						<vcard:id_wilayah>69268</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://HARIANTO_OGHIE\">
+								<vcard:nama>HARIANTO OGHIE</vcard:nama>
+								<vcard:namaKab>JAKARTA PUSAT</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>E_FOTO_HARIYANTO_OGHIE_SULAWESI_SELATAN_III.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://SULAWESI_TENGGARA\">
+						<vcard:id_wilayah>72551</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://ROSMIN\">
+								<vcard:nama>ROSMIN</vcard:nama>
+								<vcard:namaKab>KOTA KENDARI</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>E-FOTO_ROSMIN_SULTRA.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://GORONTALO\">
+						<vcard:id_wilayah>74716</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://EHA_JULAEHA\">
+								<vcard:nama>EHA JULAEHA</vcard:nama>
+								<vcard:namaKab>LEBAK</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>E-Foto_Eha Julaeha_Gorontalo.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://SULAWESI_BARAT\">
+						<vcard:id_wilayah>75425</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://HJ._NURJANNAH\">
+								<vcard:nama>HJ. NURJANNAH</vcard:nama>
+								<vcard:namaKab>POLEWALI MANDAR</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>FOTO.pdf</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://MALUKU\">
+						<vcard:id_wilayah>76096</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://RITA_DAMAYANTI KAPLALE, SE., MSi\">
+								<vcard:nama>RITA DAMAYANTI KAPLALE, SE., MSi</vcard:nama>
+								<vcard:namaKab>BOGOR</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>rita.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://MALUKU_UTARA\">
+						<vcard:id_wilayah>77085</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://NOLY_MISSY\">
+								<vcard:nama>NOLY MISSY</vcard:nama>
+								<vcard:namaKab>HALMAHERA BARAT</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>NOLY MISSY.PNG</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://PAPUA\">
+						<vcard:id_wilayah>78203</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://YOHANNES_BP MANIK\">
+								<vcard:nama>YOHANNES BP MANIK</vcard:nama>
+								<vcard:namaKab>KOTA MEDAN</vcard:namaKab>
+								<vcard:JenisKelamin>Laki-Laki</vcard:JenisKelamin>
+								<vcard:Filename>E-Foto_Yohanes BP Manik_Papua.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://PAPUA_BARAT\">
+						<vcard:id_wilayah>81877</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://INTAN_PANDINI\">
+								<vcard:nama>INTAN PANDINI</vcard:nama>
+								<vcard:namaKab>LEBAK</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>intan.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+					<rdf:Description rdf:about=\"http://KALIMANTAN_UTARA\">
+						<vcard:id_wilayah>928068</vcard:id_wilayah>
+						<j.0:headOf>
+							<rdf:Description rdf:about=\"http://NINIK_HERIYANTI KAHARU\">
+								<vcard:nama>NINIK HERIYANTI KAHARU</vcard:nama>
+								<vcard:namaKab>KOTA SAMARINDA</vcard:namaKab>
+								<vcard:JenisKelamin>Perempuan</vcard:JenisKelamin>
+								<vcard:Filename>ninik.jpg</vcard:Filename>
+								<vcard:noUrut>undefined</vcard:noUrut>
+							</rdf:Description>
+						</j.0:headOf>
+					</rdf:Description>
+				</j.0:headOf>
+			</rdf:Description>
+		</j.0:headOf>
+	</rdf:Description>
+</rdf:RDF>
